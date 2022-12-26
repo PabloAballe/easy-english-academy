@@ -1,0 +1,23 @@
+{
+  "name": "easy-english-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloAballe/easy-english-academy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloAballe/easy-english-academy/issues"
+  },
+  "homepage": "https://github.com/PabloAballe/easy-english-academy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
